@@ -1,2 +1,2 @@
-# rindu
-Pengumpulan tugas individu desain web yaitu mendesain sebuah web menggunakan HTML
+# Oryza Sativa-TP B 2017
+1101617082
